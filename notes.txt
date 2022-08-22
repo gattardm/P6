@@ -1,0 +1,8 @@
+OK mettre en avant la réduction de dette technique dans le DDA III.C.3 ET dans le TAF
+décisions décisionnelles à contextualiser en précisant que le service Client modification, les autres services en lecture et aucun accès pour les clients
+OK DDA VIII - donnez un exemple quantitatif ou qualitatif plus concret ppour le ramener sur le projet
+pendant la présentation, délimiter la frontière entre la théorie, les options et la target
+OK TAF IV.D.3 faire un lien avec les impacts du DDA
+OK TAF IV.B. faire un rappel de la BBA de LAE en y recollant le schéma générique de représentation organisationnelle par processus (IV.B.) définie dans le DDA. C'est le schéma reprenant les relations organisationneles et les processus associés p28/68.
+OK En avant, évoquer dans le TAF, la sécurité des données et la satisafaction du client.
+
